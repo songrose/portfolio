@@ -1,0 +1,42 @@
+.align h3 {
+}
+.container-projects {
+  text-align: left;
+}
+.container-projects h3 {
+}
+
+.project-list-cont {
+  margin-left: 10px;
+}
+.nightLight {
+}
+.nightLight img {
+  width: 150px;
+}
+.picture {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-right: 20px;
+}
+.project-right {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25px;
+  justify-content: space-between;
+}
+.project-right h5 {
+}
+.ecoQuestVid {
+  width: 100px;
+}
+.ecoQuestDesc {
+  width: 350px;
+}
+.f4x4x4 img {
+  width: 300px;
+}
+.description4x4 {
+  margin-left: 20px;
+}

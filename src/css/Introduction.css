@@ -1,0 +1,13 @@
+.align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.picturesizer {
+  width: 250px;
+}
+.paragraph {
+  width: 450px;
+  text-align: left;
+  font-size: 15px;
+}

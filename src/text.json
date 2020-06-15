@@ -1,0 +1,50 @@
+{
+  "about_text": [
+    "I'm a recent graduate from BCIT (British Columbia Institute of Technology). I received my diploma in Computer Systems Technology which is a 2 year condensed diploma program. My studies consisted of Software Development, Computer Science, and Algorithms. Currently, I am seeking a job and open to opportunities.",
+    " I have experience building mobile apps, websites, servers, and even IOT devices. I thoroughly enjoy solving problems and getting down to the nitty gritty while coding.",
+    "One of the most magical, wonderful, brilliant, and favorite feelings in the world is when I enter my flow state. I always seek to enter the state of mind where I can program or do anything for hours and hours and forget about the world around me.",
+    "On top of problem solving, I love building and designing things!  I do this not only through coding, but through exploring and creating new recipes, building games on Minecraft, and assembling Lego! I want to create things that bring a smile to peoples faces in addition to making life easier (through ways such as automating repetitive tasks, creating simple UI’s that are easy to follow, etc).",
+    "During my time at BCIT, I have attended various hackathons, and was involved in BCIT Coding 4 All. Hackathons were amazing because it allowed me to explore and create whatever I wanted outside of school (as well as increasing my sticker collection). My involvement in Coding 4 all was tutoring first semester programming students and doing presentations on web development and algorithms!"
+  ],
+  "website": {
+    "url": "https://image.shutterstock.com/image-vector/ui-image-placeholder-wireframes-apps-260nw-1037719204.jpg",
+    "name": "Personal Website",
+    "description": "Hello World",
+    "Notable Achievement": "I'm just fascinated at how brilliant and efficient React is vs vanilla javascript"
+  },
+  "f4x4x4": {
+    "url": "https://media.discordapp.net/attachments/648336686627160085/722063464163442728/unknown.png?width=1158&height=1002",
+    "name": "4x4x4 Tic Tac Toe",
+    "description": "A 3D 4x4x4 tic tac toe game created by Three.JS, Javascript. Contains three game modes with a simple AI to play alone!",
+    "Notable Achievement": "My first ever programming project"
+  },
+  "BeatDapp": {
+    "url": "https://image.shutterstock.com/image-vector/ui-image-placeholder-wireframes-apps-260nw-1037719204.jpg",
+    "name": "Internal Team Building Tool",
+    "description": "Internal Team building tool that uses SQL",
+    "Notable Achievement": "Our client was pleased!"
+  },
+  "LightUp": {
+    "url": "https://image.shutterstock.com/image-vector/ui-image-placeholder-wireframes-apps-260nw-1037719204.jpg",
+
+    "name": "LightUp",
+    "description": "Light-UP detects facial emotions with machine learning and uses colours and light patterns to help improve your mood and light up your day!",
+    "Notable Achievements": "Best use of Google Cloud Platform - (Google Home Mini for Each Member)"
+  },
+  "SpeakOn": {
+    "url": "https://image.shutterstock.com/image-vector/ui-image-placeholder-wireframes-apps-260nw-1037719204.jpg",
+    "name": "SpeakON",
+    "description": "A customizable augmented communication application to allow tailored and languages between caregivers and children diagnosed anywhere on the autism spectrum.",
+    "Notable Achievements": "Top 10 - Yearly Subscription to Wolfram Alpha"
+  },
+  "NightLight": {
+    "url": "https://cdn.discordapp.com/attachments/648336686627160085/722052283571109928/unknown.png",
+    "url2": "https://media.discordapp.net/attachments/648336686627160085/722052872988000376/unknown.png",
+    "name": "Night Light",
+    "description": "Android application that calculates the brightest path between your location and the current location you want to go to. Application does this by counting the number of lights within a path. My roles included developing the backend, zooming, finding the # of lamps per path, and the logic to determine what path is the brightest.",
+    "NotableAchievements": "Showcased our project to the city of Vancouver and placed 1st place out of 12 projects in the category of Security. "
+  },
+  "EcoQuest": {
+    "description": "A fun and interactive Phaser.js game that utilizes socket.io to create a multiplayer flashcard game. We used HTML, Javascript, MongoDB, Phaser.js, and CSS to create a visually appealing game to raise awareness of global warming. My roles include creating the game prototype with multiplayer and styling."
+  }
+}
